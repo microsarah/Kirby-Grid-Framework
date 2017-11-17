@@ -124,15 +124,15 @@ $font-serif:  'Archive', 'Georgia', serif;
 
 $color-background:  #FFF;
 $color-primary:     #002DEA;
-$color-secondary:   #292627;
-$color-tertiary:    #EEE;
+$color-secondary:   #222430;
+$color-tertiary:    rgba(0,45,234,.5); /* Primary color @ 50% opacity */
 
-$color-neutral-lite:  #EEE;
-$color-neutral-med:   #DDD;
-$color-neutral-dark:  #CCC;
+$color-neutral-dark:  #292627;
+$color-neutral-med:   #808284;
+$color-neutral-lite:  #E2E3E4;
 
-$color-white: #FFF;
 $color-black: #000;
+$color-white: #FFF;
 
 /* -------------------------  Layout  ----------------- */
 $grid-col-gap: 1em;
